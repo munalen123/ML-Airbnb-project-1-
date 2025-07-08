@@ -1,4 +1,3 @@
-# ML-Airbnb-project-1-
 
 # NYC Airbnb Price Prediction Project
 
@@ -83,6 +82,13 @@ This project focuses on analyzing and predicting Airbnb listing prices in New Yo
 * Jupyter Notebook
 
 ---
+## Project Visualizations
+
+### 🏙️ Predicted vs Actual Airbnb Prices in NYC
+![Predicted Prices](https://github.com/your-username/your-repo-name/blob/main/Screenshot%202025-07-06%20164134.png-predict%20price.png)
+
+### 📌 Airbnb Listing Density Across NYC
+![Listing Amount](https://github.com/your-username/your-repo-name/blob/main/Screenshot%202025-07-06%20164200.png-listamount.png)
 
 ---
 
