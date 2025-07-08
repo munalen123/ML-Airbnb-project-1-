@@ -84,7 +84,6 @@ This project focuses on analyzing and predicting Airbnb listing prices in New Yo
 ---
 ## Project Visualizations
 
-Perfect! You've uploaded the images correctly to your GitHub repo. Now here’s the exact Markdown code to paste at the **end of your `README.md`** so that both screenshots display inline:
 
 ---
 
@@ -100,9 +99,7 @@ Perfect! You've uploaded the images correctly to your GitHub repo. Now here’s 
 
 ---
 
-✅ **Make sure to include the `?raw=true` at the end** so GitHub renders the images in the README file.
-
-Let me know once it's added and I can check how it looks!
+ `?raw=true`
 
 ---
 
