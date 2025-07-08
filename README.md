@@ -84,11 +84,25 @@ This project focuses on analyzing and predicting Airbnb listing prices in New Yo
 ---
 ## Project Visualizations
 
-### 🏙️ Predicted vs Actual Airbnb Prices in NYC
-![Predicted Prices](https://github.com/your-username/your-repo-name/blob/main/Screenshot%202025-07-06%20164134.png-predict%20price.png)
+Perfect! You've uploaded the images correctly to your GitHub repo. Now here’s the exact Markdown code to paste at the **end of your `README.md`** so that both screenshots display inline:
 
-### 📌 Airbnb Listing Density Across NYC
-![Listing Amount](https://github.com/your-username/your-repo-name/blob/main/Screenshot%202025-07-06%20164200.png-listamount.png)
+---
+
+### 📊 Visualizations
+
+#### 🏙️ Predicted vs Actual Airbnb Prices in NYC
+
+![Predicted Prices](https://github.com/munalen123/ML-Airbnb-project-1-/blob/main/Screenshot%202025-07-06%20164134.png-predict%20price.png?raw=true)
+
+#### 📌 Airbnb Listing Density Across NYC
+
+![Listing Amount](https://github.com/munalen123/ML-Airbnb-project-1-/blob/main/Screenshot%202025-07-06%20164200.png-listamount.png?raw=true)
+
+---
+
+✅ **Make sure to include the `?raw=true` at the end** so GitHub renders the images in the README file.
+
+Let me know once it's added and I can check how it looks!
 
 ---
 
